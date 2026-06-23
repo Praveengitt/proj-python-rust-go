@@ -1,0 +1,56 @@
+Python
+------
+Source code
+   ↓
+Python Interpreter
+   ↓
+Runs on any OS with Python installed
+
+Java
+------
+Source code
+   ↓
+Bytecode
+   ↓
+JVM
+   ↓
+Runs on any OS with JVM installed
+
+Rust
+------
+Source code
+   ↓
+Native executable
+   ↓
+Runs directly on the OS
+
+-------------
+
+Go (very common in cloud-native systems)
+
+Used in:
+
+Kubernetes ecosystem
+Docker
+Terraform
+API services
+
+👉 Optimized for:
+
+simplicity
+concurrency
+networking
+Rust (growing in systems & infra)
+
+Used in:
+
+performance-critical services
+security-sensitive components
+networking proxies
+databases
+
+👉 Optimized for:
+
+safety
+memory control
+performance
