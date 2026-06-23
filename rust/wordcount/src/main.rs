@@ -1,4 +1,4 @@
-use sysinfo::{System, SystemExt, CpuExt};
+use sysinfo::{System, SystemExt, CpuExt, ProcessExt};
 use std::{thread, time::Duration};
 
 fn main() {
